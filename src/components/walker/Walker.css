@@ -1,0 +1,12 @@
+.walkers {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+  }
+  
+  .walker {
+      max-width: 40%;
+      margin: 1em;
+      padding: 1em;
+      border: 1px solid goldenrod;
+  }
